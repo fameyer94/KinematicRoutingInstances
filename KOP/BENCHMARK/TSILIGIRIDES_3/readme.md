@@ -1,4 +1,5 @@
 # Tsiligirides dataset 3.
+This is a description of the problem instances from the Tsiligirides dataset 3.
 
 The structure of the file is as follows: 
 waypoint_id SPACE x-coordinate SPACE y-coordinate SPACE priority

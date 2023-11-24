@@ -1,6 +1,5 @@
-# Modified Tsiligirides Dataset 2
+# Tsiligirides Dataset 2
 This is a description of the problem instances from the Tsiligirides dataset 2.
-All problem instances were dropped the restriction of a maximum path length and the priority assigned to each waypoint, since both is not relevant for the TSP-model. Further, no explicit start and end node is defined, sind in the TSP case a Hamiltonian cycle is seeked.
 
 The structure of the file is as follows: 
 waypoint_id SPACE x-coordinate SPACE y-coordinate SPACE priority
