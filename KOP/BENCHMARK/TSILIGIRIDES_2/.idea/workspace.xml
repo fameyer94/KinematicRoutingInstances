@@ -4,7 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68e4a96f-f953-4f8d-a411-13e0a42174b7" name="Changes" comment="" />
+    <list default="true" id="68e4a96f-f953-4f8d-a411-13e0a42174b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/BENCHMARK/TSILIGIRIDES_2/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/10e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/12e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/14e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/16e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/18e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/20e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/22e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/24e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/26e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/28e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/30e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/32e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/34e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/36e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/38e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KTSP/RUNTIME/40e.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +123,29 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tsi2_reduced_generator (1)">
+    <configuration name="tsi2_reduced_generator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TSILIGIRIDES_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../KTSP/RUNTIME" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../KTSP/RUNTIME/tsi2_reduced_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tsi2_reduced_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TSILIGIRIDES_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +170,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tsi2_reduced_generator (1)" />
         <item itemvalue="Python.tsi2_reduced_generator" />
       </list>
     </recent_temporary>
@@ -77,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700837022620</updated>
-      <workItem from="1700837028761" duration="1684000" />
+      <workItem from="1700837028761" duration="2425000" />
     </task>
     <servers />
   </component>
@@ -108,5 +214,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TSILIGIRIDES_2$tsi2_reduced_generator.coverage" NAME="tsi2_reduced_generator Coverage Results" MODIFIED="1700837846295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TSILIGIRIDES_2$tsi2_reduced_generator__1_.coverage" NAME="tsi2_reduced_generator (1) Coverage Results" MODIFIED="1700841871812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../KTSP/RUNTIME" />
   </component>
 </project>

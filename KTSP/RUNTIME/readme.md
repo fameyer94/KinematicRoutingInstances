@@ -6,21 +6,21 @@ waypoint_id SPACE x-coordinate SPACE y-coordinate
 
 ## Detailed description of each instance:
 - 10a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 12a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 14a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 16a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 18a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 20a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 22a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 24a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 26a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 28a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 30a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 32a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 34a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 36a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 38a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
-- 40a/b/c/d/e.txt: test instance with 10 randomly sampled waypoints
+- 12a/b/c/d/e.txt: test instance with 12 randomly sampled waypoints
+- 14a/b/c/d/e.txt: test instance with 14 randomly sampled waypoints
+- 16a/b/c/d/e.txt: test instance with 16 randomly sampled waypoints
+- 18a/b/c/d/e.txt: test instance with 18 randomly sampled waypoints
+- 20a/b/c/d/e.txt: test instance with 20 randomly sampled waypoints
+- 22a/b/c/d/e.txt: test instance with 22 randomly sampled waypoints
+- 24a/b/c/d/e.txt: test instance with 24 randomly sampled waypoints
+- 26a/b/c/d/e.txt: test instance with 26 randomly sampled waypoints
+- 28a/b/c/d/e.txt: test instance with 28 randomly sampled waypoints
+- 30a/b/c/d/e.txt: test instance with 30 randomly sampled waypoints
+- 32a/b/c/d/e.txt: test instance with 32 randomly sampled waypoints
+- 34a/b/c/d/e.txt: test instance with 34 randomly sampled waypoints
+- 36a/b/c/d/e.txt: test instance with 36 randomly sampled waypoints
+- 38a/b/c/d/e.txt: test instance with 38 randomly sampled waypoints
+- 40a/b/c/d/e.txt: test instance with 40 randomly sampled waypoints
 
 ## Properties applied for hyperparaemter tuning
 ### All problem instances where solve with the following kinematic restirctions:
