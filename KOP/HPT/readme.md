@@ -2,7 +2,7 @@
 The structure of the file is as follows: 
 waypoint_id SPACE x-coordinate SPACE y-coordinate SPACE priority
 
-This is a description of the problem instances generated for hyperparameter tuning. For all instances, each waypoint (x-coordinate,y-coordinate) is sampled randomly with x \in [0, 20], y \in [0, 20]. The priority is randomly sampled within the interval [0, 35]. The first entry represents the start waypoint, the last entry represents the end waypoint. Start and end waypoint are assigned the priority zero.
+This is a description of the problem instances generated for hyperparameter tuning. For all instances, each waypoint (x-coordinate,y-coordinate) is sampled randomly with x \in [0, 20], y \in [0, 20]. The priority is randomly sampled within the interval [0, 35]. The first entry represents the start waypoint, the last entry represents the end waypoint. Start and end waypoints are assigned the priority zero.
 
 ## Detailed description of each instance:
 - hpt_test10: test instance with 10 randomly sampled waypoints
@@ -12,8 +12,8 @@ This is a description of the problem instances generated for hyperparameter tuni
 - hpt_test30: test instance with 30 randomly sampled waypoints
 - hpt_test35: test instance with 35 randomly sampled waypoints
 
-## Properties applied for hyperparaemter tuning
-### All problem instances where solve with the following kinematic restirctions:
+## Properties applied for hyperparameter tuning
+### All problem instances were solved with the following kinematic restrictions:
 - v_max = 3 m/s //overall maximum velocity
 - a_max = 1.5 m/s^2 //overall maximum acceleration
 
