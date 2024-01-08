@@ -9,16 +9,16 @@ This is a description of the problem instances generated for hyperparameter tuni
 - hpt_test30: test instance with 30 randomly sampled waypoints
 - hpt_test35: test instance with 35 randomly sampled waypoints
 
-## Properties applied for hyperparaemter tuning
-### All problem instances where solve with the following kinematic restirctions:
+
+## All problem instances were solved with the following kinematic restrictions:
 - v_max = 3 m/s //overall maximum velocity
 - a_max = 1.5 m/s^2 //overall maximum acceleration
 
-### Set of possible traversal velocities for each node
+## Set of possible traversal velocities for each node
 - V = {0.0, 0.2*v_max/sqrt(2), 0.4*v_max/sqrt(2), 0.6*v_max/sqrt(2), 0.8*v_max/sqrt(2), 1*v_max/sqrt(2)}  (m/s)
 - sqrt(2) = 1.4142...
 
-### Set of possible traversal heading angles for each node
+## Set of possible traversal heading angles for each node
 - H = {0.0, pi/4, pi/2, 3*pi/4, pi, 5*pi/4, 3*pi/2, 7*pi/4}  (rad)
 - pi = 3.1415...
 
